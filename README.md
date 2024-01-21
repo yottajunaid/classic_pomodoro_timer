@@ -30,7 +30,10 @@ Follow these steps to get the Pomodoro timer up and running on your machine:
    ```bash
    python main.py
    ```
- 
+## Screenshot
+
+![pngtree 1_21_2024 5_10_52 PM](https://github.com/yottajunaid/classic_pomodoro_timer/assets/114429773/7c0d8940-8f0b-44d1-aabf-50aec47b6507)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
