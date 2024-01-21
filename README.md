@@ -18,7 +18,7 @@ Follow these steps to get the Pomodoro timer up and running on your machine:
 
 1. **Clone the Repository**: 
    ```bash
-    git clone https://github.com/yottajunaid/classic_pomodoro_timer.git
+   git clone https://github.com/yottajunaid/classic_pomodoro_timer.git
    ```
 
 2. **Navigate to the Directory**:
